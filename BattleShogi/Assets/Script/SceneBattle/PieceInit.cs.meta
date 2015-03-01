@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: 5d0e1960b04c3ec4397458fabdcd206a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SPawn: {fileID: 100000, guid: 512eda14349c92a43a4186fe39ca9031, type: 2}
+  - SLance: {fileID: 100000, guid: feb65ea7434227b4a9eeeb29644e2c2b, type: 2}
+  - SKnight: {fileID: 100000, guid: a7a6627d9b987e84eab40da586e5ec5f, type: 2}
+  - SSilver: {fileID: 100000, guid: 8767f535ea5324a4aa8c437bb58e0448, type: 2}
+  - SGold: {fileID: 100000, guid: 41a95752048cb9647be3801785c2262f, type: 2}
+  - SKing: {fileID: 100000, guid: 1a422341067d7bb498c7786f99ff6c70, type: 2}
+  - SBishop: {fileID: 100000, guid: fd396d7a8d8136a4f8786331a4d18a11, type: 2}
+  - SRook: {fileID: 100000, guid: f78187da98eefec4bbc27453f517e060, type: 2}
+  - SPawn_Promoted: {fileID: 100000, guid: 79273e984736c024aa0a7fb0666495d9, type: 2}
+  - SLance_Promoted: {fileID: 100000, guid: 4d8fddc3e8ec03d43b0a9172a97487d4, type: 2}
+  - SKnight_Promoted: {fileID: 100000, guid: 79a9454c43d117e48af7006ea9b8a3e7, type: 2}
+  - SSilver_Promoted: {fileID: 100000, guid: de4c4476cb54c4a4fb066d07876ec824, type: 2}
+  - SBishop_Promoted: {fileID: 100000, guid: 095687013f1312c4aa0cd6b5d3ae2c06, type: 2}
+  - SRook_Promoted: {fileID: 100000, guid: 71e61d9c42bc2184a853246d02e209b9, type: 2}
+  - EPawn: {fileID: 100000, guid: ad8dcbb9c4cae4d4f82aa4bb4eb438bb, type: 2}
+  - ELance: {fileID: 100000, guid: 0ae7eb6651b8b6645b3c3fb91f6b4952, type: 2}
+  - EKnight: {fileID: 100000, guid: 44fc25be5ee4b924495dddccb96cf8dc, type: 2}
+  - ESilver: {fileID: 100000, guid: be5587a8d16aa78438782fbc9082faae, type: 2}
+  - EGold: {fileID: 100000, guid: 160d40fd41dddb1439a87823c8c8a050, type: 2}
+  - EKing: {fileID: 100000, guid: 271c4e932cd82ae4d84a27549a4c25f8, type: 2}
+  - EBishop: {fileID: 100000, guid: 1e36979ba5058d04eaabe7c26ba0dfbc, type: 2}
+  - ERook: {fileID: 100000, guid: e7e4075b163487e42ad2f9809b7553d5, type: 2}
+  - EPawn_Promoted: {fileID: 100000, guid: 3a845f493c4793949be91c53e4ac0fca, type: 2}
+  - ELance_Promoted: {fileID: 100000, guid: 8ae286e7b77bb5f47a27aa855a1aa2cd, type: 2}
+  - EKnight_Promoted: {fileID: 100000, guid: 936056b5f9b27bc4e962949a00168655, type: 2}
+  - ESilver_Promoted: {fileID: 100000, guid: 6fdd5aad2b75e8a4cae7d5f8b40ec6c1, type: 2}
+  - EBishop_Promoted: {fileID: 100000, guid: b84ff4afdb58b0b4fb8ab61325b17511, type: 2}
+  - ERook_Promoted: {fileID: 100000, guid: 8ddead3691d8c7a41b27a7833c636c2e, type: 2}
+  - Aura: {fileID: 100000, guid: fc675185b7114c3439dc8ae5150f3635, type: 2}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 

@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: d57269b5291cc4f49b8a8526fcb4a9bd
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SelfHandBoard: {fileID: 100000, guid: 2e8ff6893335e8d4a966d53616a9a633, type: 2}
+  - EnemyHandBoard: {fileID: 100000, guid: 667cd1ef9af87c7448f9fe2bb07801df, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

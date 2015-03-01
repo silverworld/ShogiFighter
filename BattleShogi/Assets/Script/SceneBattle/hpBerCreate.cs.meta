@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 1a6ae5565c2fec447859024923dfd5f8
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - SelfObj: {instanceID: 0}
+  - EnemyObj: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
